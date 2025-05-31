@@ -6,10 +6,11 @@
 #Meng Hua  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
 #His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
 
+
 ~~~
-{}{img_left}{https://s2.loli.net/2024/09/27/lNwO2Kb49IfcD6X.jpg}{Meng Hua}{200px}{240px}{https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao}{}{raw}
+{}{img_left}{https://i.postimg.cc/SN6YcHkx/photome.jpg}{Chenghong Bian}{200px}{220px}{https://scholar.google.com/citations?user=BFGfrBIAAAAJ&hl=en}{}{raw}
 ==   Chenghong Bian
-- Ph.D Student
+- Ph.D Candidate
 -  Imperial College London
 - Email\: ([c.bian22@imperial.ac.uk])
 #- [https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao  \[Google Scholar\]]
@@ -17,17 +18,17 @@
 
 
 == Biography
-I received the B.S degree in Physics department at Tsinghua University and received the M.S degree in ECE department at University of Michigan where I served as a GSRA supervised by Professor Hunseok Kim. 
-I am currently a Ph.D student at IPC lab, EEE department, Imperial College London working as a research assistant supervised by Professor Deniz Gunduz.
+I received the B.S degree in the Physics department at Tsinghua University and received the M.S degree in ECE department at University of Michigan where I served as a GSRA supervised by [https://kim.engin.umich.edu/ Professor Hunseok Kim].  
+I am currently a Ph.D candidate at IPC lab, EEE department, Imperial College London working as a research assistant supervised by [https://www.imperial.ac.uk/people/d.gunduz Professor Deniz Gunduz].
 
-I am interested in the broad topics of machine learning for wireless communications which are not limited to efficient transmission of
-images, videos and point clouds; efficient wireless signals compression; learning-based channel encoding and decoding algorithms; MIMO detection and integrated sensing and communications.
+My research interests lie broadly in machine learning for wireless communications. Specifically, I worked on efficient transmission of images, videos, and point clouds; compression of wireless signals; learning-based channel encoding and decoding algorithms; MIMO detection; and integrated sensing and communication systems.
+
 
 == Education
 
 - 2022\/10\- 2025\/10\ (expected) ~~~~~~ Ph.D in EEE ~~~~~~~ Imperial College London
-- 2020\/08\- 2022\/08\    ~~~~ M.S in ECE ~~~~~~~~~~~~~~~~~~~~~~~~~~~  University of Michigan
-- 2016\/08-2020\/06  ~~~~~ B.S in Physics~~~~~~~~~~~~~~~~~~~~~~~~~~~  Tsinghua University
+- 2020\/08\- 2022\/04\    ~~~~~~~~~~~~ M.S in ECE ~~~~~~~ University of Michigan
+- 2016\/08-2020\/06  ~~~~~~~~~~~~~~ B.S in Physics~~~~~~ Tsinghua University
 
 
 #== Work Experience 
