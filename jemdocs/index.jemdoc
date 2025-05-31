@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+#= Welcome to My Homepage
+
+
+#{}{img_left}{https://s2.loli.net/2023/11/03/hu9VNM6Dk2z8Clo.jpg}{Meng Hua}{180px}{200px}{https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao}{}{raw}
+#Meng Hua  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
+#His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+
+~~~
+{}{img_left}{https://s2.loli.net/2024/09/27/lNwO2Kb49IfcD6X.jpg}{Meng Hua}{200px}{240px}{https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao}{}{raw}
+==   Chenghong Bian
+- Ph.D Student
+-  Imperial College London
+- Email\: ([c.bian22@imperial.ac.uk])
+#- [https://scholar.google.com/citations?user=AUhPtrkAAAAJ&hl=en&oi=ao  \[Google Scholar\]]
+~~~
+
+
+== Biography
+I received the B.S degree in Physics department at Tsinghua University and received the M.S degree in ECE department at University of Michigan where I served as a GSRA supervised by Professor Hunseok Kim. 
+I am currently a Ph.D student at IPC lab, EEE department, Imperial College London working as a research assistant supervised by Professor Deniz Gunduz.
+
+I am interested in the broad topics of machine learning for wireless communications which are not limited to efficient transmission of
+images, videos and point clouds; efficient wireless signals compression; learning-based channel encoding and decoding algorithms; MIMO detection and integrated sensing and communications.
+
+== Education
+
+- 2022\/10\- 2025\/10\ (expected) ~~~~~~ Ph.D in EEE ~~~~~~~ Imperial College London
+- 2020\/08\- 2022\/08\    ~~~~ M.S in ECE ~~~~~~~~~~~~~~~~~~~~~~~~~~~  University of Michigan
+- 2016\/08-2020\/06  ~~~~~ B.S in Physics~~~~~~~~~~~~~~~~~~~~~~~~~~~  Tsinghua University
+
+
+#== Work Experience 
+
+#- 2024\/01\- present ~~~~~~ Research Associate ~~~~~~~ Imperial College London
+#- 2023\/07\- 2024\/01\    ~~~~ Postdoc ~~~~~~~~~~~~~~~~~~~~~~~~~~~  City University of Hong Kong 
+#- 2021\/01-2023\/06  ~~~~~ Postdoc  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  University of Macau  
+
+ 
+#== Research 
+#- Deep Learning for Wireless Communications
+#- Semantic Communication/Compression
+#- Integrated Sensing and Communication
+#- 
+
+
+# add map visitors  
+#{{
+#<center>
+#<a href='https://mapmyvisitors.com/web/1bvim'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=400&t=n&d=7dd2pTBatuw02FwcmfFjPHBMXpxhHk-_FvBj72XJtHE'/></a>
+#<center>
+#}}
+
+
