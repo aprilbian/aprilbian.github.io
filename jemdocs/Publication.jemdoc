@@ -1,32 +1,41 @@
 # jemdoc: menu{MENU}{Publication.html}
 = Publications
 
+(* indicates corresponding author)
+
 == Books
-. H. Wu, *C. Bian*, Y. Shao, D. Gündüz, ``Deep Joint Source and Channel Coding'', /{{<b>Foundations of Semantic Communication Networks</b>}}/, 2024.
+. Book chapter: *Deep Joint Source and Channel Coding*. In /Foundations of Semantic Communication Networks/, Wiley, 2024. Authors: H. Wu, *C. Bian*, Y. Shao, D. Gunduz.
 
 == Preprints
-. M. Hua, *C. Bian*, H. Wu, D. Gündüz, “Realizing Fully-Connected Layers Over the Air via Reconfigurable Intelligent Surfaces,” Under Review, /{{<b>IEEE Global Communications Conference (Globecom)</b>}}/, 2025.
-. *C. Bian*, M. Hua, D. Gündüz, “Over-the-Air Inference over Multi-hop MIMO Networks,” Under Review, /{{<b>IEEE Wireless Communication Letter (WCL)</b>}}/, 2025.
-. *C. Bian*, K. Meng, H. Wu, Y. Zhang, D. Gündüz, “CRC-Assisted Channel Codes for Integrated Passive Sensing and Communications,” Under Review, /{{<b>IEEE Transactions on Wireless Communications (TWC)</b>}}/, 2025.
-. *C. Bian*, Y. Shao, D. Gündüz, “Over-the-air Learning-based Geometry Point Cloud Transmission,” Major Revision, /{{<b>IEEE Journal of Selected Areas in Communications (JSAC)</b>}}/, 2024
+. *C. Bian*, K. Meng, H. Wu, Y. Zhang, D. Gunduz, ``CRC-Assisted Channel Codes for Integrated Passive Sensing and Communications,'' Major Revision, /IEEE Transactions on Cognitive Communications and Networking (TCCN)/, 2026.
+. *C. Bian*, Y. Zhang, M. Hua, K. Meng, D. Gunduz, ``LISAC: Learned Coded Waveform Design for ISAC with OFDM,'' Under Review, /IEEE Transactions on Wireless Communications (TWC)/, 2026.
+. *C. Bian*, Y. Shao, D. Gunduz, ``Towards AI-Native Fronthaul: Neural Compression for NextG Cloud RAN,'' Under Review, /IEEE Transactions on Cognitive Communications and Networking (TCCN)/, 2026.
+. *C. Bian*, Y. Shao, D. Gunduz, ``Neural Compression for NextG Cloud RAN,'' Under Review, /IEEE International Symposium on Information Theory (ISIT) Workshop/, 2026.
+. M. Hua, W. Zhang, C. Bian*, D. Gunduz, ``In-Context Learning for Deep Joint Source-Channel Coding Over MIMO Channels,'' Major Revision, /IEEE Transactions on Wireless Communications (TWC)/, 2026.
+. C. Wen, J. Tong, Z. Lin, *C. Bian*, J. Zhang, ``Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction,'' Major Revision, /npj Wireless Technology/, 2026.
 
 == Journals
-. Y. Shao, *C. Bian*, L. Yang, Q. Yang, Z. Zhang and D. Gündüz, ``Point cloud in the air,'' /{{<b>IEEE Communication Magazine</b>}}/, vol. 22, no. 4, pp. 2278-2294, April 2023. 
-. *C. Bian*, Y. Shao and D. Gündüz, ``A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks'', /{{<b>IEEE Journal of Selected Areas in Communications (JSAC)</b>}}/, 2025.
-. *C. Bian*, Y. Shao, H. Wu, E. Ozfatura and D. Gündüz, “Process-and-forward: Deep joint source-channel coding over cooperative relay networks,” /{{<b>IEEE Journal of Selected Areas in Communications (JSAC)</b>}}/, 2025.
-. H. Wu, Y. Shao, *C. Bian*, K. Mikolajczyk, D. Gündüz, ``Deep joint source-channel coding for adaptive image transmission over MIMO channels,'' /{{<b>IEEE Transactions on Wireless Communications (TWC)</b>}}/, 2024. 
-. *C. Bian*, C.-W. Hsu, C. Lee and H.-S. Kim, ``Learning-Based Near-Orthogonal Superposition Code for MIMO Short Message Transmission,'' /{{<b>IEEE Transactions on Communications (TCOM)</b>}}/, 2023.
-. M. Yang, *C Bian* and H.-S. Kim, ``OFDM-guided deep joint source channel coding for wireless multipath fading channels,'' /{{<b>IEEE Transactions on Cognitive Communications and Networking (TCCN)</b>}}/, 2022.
-. F. Gao, B. Lin, *C. Bian*, T. Zhou, J. Qian and H. Wang, ``FusionNet: Enhanced beam prediction for mmWave communications using sub-6 GHz channel and a few pilots,'' /{{<b>IEEE Transactions on Communications (TCOM)</b>}}/, 2021.
+. *C. Bian*, Y. Shao, D. Gunduz, ``A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks,'' /IEEE Journal of Selected Areas in Communications (JSAC)/, 2025.
+. *C. Bian*, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, ``Process-and-Forward: Deep Joint Source-Channel Coding Over Cooperative Relay Networks,'' /IEEE Journal of Selected Areas in Communications (JSAC)/, 2025.
+. *C. Bian*, Y. Shao, D. Gunduz, ``Over-the-air Learning-based Geometry Point Cloud Transmission,'' /IEEE Journal of Selected Areas in Communications (JSAC)/, 2025.
+. *C. Bian*, M. Hua, D. Gunduz, ``Over-the-Air Inference over Multi-hop MIMO Networks,'' /IEEE Wireless Communications Letters (WCL)/, 2025.
+. *C. Bian*, C.-W. Hsu, C. Lee, H.-S. Kim, ``Learning-Based Near-Orthogonal Superposition Code for MIMO Short Message Transmission,'' /IEEE Transactions on Communications (TCOM)/, 2023.
+. M. Hua, C. Bian*, H. Wu, D. Gunduz, ``Implementing Neural Networks Over-the-Air via Reconfigurable Intelligent Surfaces,'' /IEEE Transactions on Wireless Communications (TWC)/, 2026.
+. Y. Shao, *C. Bian*, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, ``Point Cloud in the Air,'' /IEEE Communications Magazine/, 2025.
+. H. Wu, Y. Shao, *C. Bian*, K. Mikolajczyk, D. Gunduz, ``Deep Joint Source-Channel Coding for Adaptive Image Transmission over MIMO Channels,'' /IEEE Transactions on Wireless Communications (TWC)/, 2024.
+. M. Yang, *C. Bian*, H.-S. Kim, ``OFDM-guided Deep Joint Source Channel Coding for Wireless Multipath Fading Channels,'' /IEEE Transactions on Cognitive Communications and Networking (TCCN)/, 2022.
+. F. Gao, B. Lin, *C. Bian*, T. Zhou, J. Qian, H. Wang, ``FusionNet: Enhanced Beam Prediction for mmWave Communications Using Sub-6GHz Channel and A Few Pilots,'' /IEEE Transactions on Communications (TCOM)/, 2021.
 
 == Conferences
-. *C. Bian*, Y. Zhang, D. Gündüz, “LISAC: Learned Coded Waveform Design for ISAC with OFDM,” /{{<b>IEEE Wireless Communications and Networking Conference (WCNC)</b>}}/, 2025.
-. *C. Bian*, Y. Shao, D. Gündüz, “Wireless Point Cloud Transmission,” /{{<b>IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</b>}}/, 2024.
-. *C. Bian*, Y. Shao, D. Gündüz, “A Hybrid Joint Source-Channel Coding Scheme for Mobile Multi-hop Networks,” /{{<b>IEEE International Conference on Communications (ICC)</b>}}/, 2024.
-. *C. Bian*, Y. Shao, H. Wu, D. Gündüz, “Deep Joint Source-Channel Coding over Cooperative Relay Networks,” /{{<b>IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)</b>}}/, 2024.
-. Emre Ozfatura, *C. Bian*, D. Gündüz, “Do not Interfere but Cooperate: A Fully Learnable Code Design for Multi-Access Channels with Feedback,” /{{<b>International Symposium on Topics in Coding (ISTC)</b>}}/, 2023.
-. *C. Bian*, Y. Shao, D. Gündüz, “DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission,” /{{<b>IEEE Global Communications Conference (Globecom)</b>}}/, 2023.
-. H. Wu, Y. Shao, *C. Bian*, K. Mikolajczyk, D. Gündüz, “Vision Transformer for Adaptive Image Transmission over MIMO Channels,” /{{<b><font color="red">Best Paper Award</font></b>}}/, /{{<b>IEEE International Conference on Communications (ICC)</b>}}/, 2023.
-. *C. Bian*, Y. Shao, H. Wu, D. Gündüz, “Space-time Design for Deep Joint Source Channel Coding of Images over MIMO Channels,” /{{<b>IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)</b>}}/, 2023.
-. *C. Bian*, M. Yang, C.-W. Hsu, H.-S. Kim, “Deep Learning Based Near-Orthogonal Superposition Codes for Short Packets,” /{{<b>IEEE International Conference on Communications (ICC)</b>}}/, 2022.
-. M. Yang, *C. Bian*, H.-S. Kim, “Deep Joint Source Channel Coding for Wireless Image Transmission with OFDM,” /{{<b>IEEE International Conference on Communications (ICC)</b>}}/, 2021.
+. H. Wu, Y. Shao, *C. Bian*, K. Mikolajczyk, D. Gunduz, ``Vision Transformer for Adaptive Image Transmission over MIMO Channels,'' *Best Paper Award*, /IEEE International Conference on Communications (ICC)/, 2023.
+. *C. Bian*, K. Meng, H. Wu, Y. Zhang, D. Gunduz, ``CRC-Assisted Channel Codes for Integrated Sensing and Communications,'' /IEEE International Conference on Communications (ICC) Workshop/, 2026.
+. M. Hua, *C. Bian*, H. Wu, D. Gunduz, ``Realizing Fully-Connected Layers Over the Air via Reconfigurable Intelligent Surfaces,'' /IEEE Global Communications Conference (GLOBECOM)/, 2025.
+. *C. Bian*, Y. Zhang, D. Gunduz, ``LISAC: Learned Coded Waveform Design for ISAC with OFDM,'' /IEEE Wireless Communications and Networking Conference (WCNC)/, 2025.
+. *C. Bian*, Y. Shao, D. Gunduz, ``Wireless Point Cloud Transmission,'' /IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, 2024.
+. *C. Bian*, Y. Shao, D. Gunduz, ``A Hybrid Joint Source-Channel Coding Scheme for Mobile Multi-hop Networks,'' /IEEE International Conference on Communications (ICC)/, 2024.
+. *C. Bian*, Y. Shao, H. Wu, D. Gunduz, ``Deep Joint Source-Channel Coding over Cooperative Relay Networks,'' /IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)/, 2024.
+. E. Ozfatura, *C. Bian*, D. Gunduz, ``Do not Interfere but Cooperate: A Fully Learnable Code Design for Multi-Access Channels with Feedback,'' /International Symposium on Topics in Coding (ISTC)/, 2023.
+. *C. Bian*, Y. Shao, D. Gunduz, ``DeepJSCC-l\+\+: Robust and Bandwidth-Adaptive Wireless Image Transmission,'' /IEEE Global Communications Conference (GLOBECOM)/, 2023.
+. *C. Bian*, Y. Shao, H. Wu, D. Gunduz, ``Space-time Design for Deep Joint Source Channel Coding of Images over MIMO Channels,'' /IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, 2023.
+. *C. Bian*, M. Yang, C.-W. Hsu, H.-S. Kim, ``Deep Learning Based Near-Orthogonal Superposition Codes for Short Packets,'' /IEEE International Conference on Communications (ICC)/, 2022.
+. M. Yang, *C. Bian*, H.-S. Kim, ``Deep Joint Source Channel Coding for Wireless Image Transmission with OFDM,'' /IEEE International Conference on Communications (ICC)/, 2021.
